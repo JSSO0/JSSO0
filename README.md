@@ -38,6 +38,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JSSO0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsso0&show_icons=true&locale=en&layout=compact" alt="jsso0" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsso0&show_icons=true&locale=en" alt="jsso0" /></p>
