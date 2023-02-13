@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsso0" alt="jsso0" /></a> </p>
 
-- 🔭 I’m currently working on [Teste](https://github.com/JSSO0/TESTE-FRONT-END.git)
+- 🔭 I’m currently working on [Teste](https://github.com/JSSO0/Projeto.git)
 
-- 🌱 I’m currently learning **Java, JavaScript, Database Oracle, React.js and Docker**
+- 🌱 I’m currently learning **Java, Apache, Sping-Boot, Database Oracle and Docker**
 
-- 👯 I’m looking to collaborate on [Sistema de Estágio](https://github.com/nextifap/sistema-estagio.git)
+- 👯 I’m looking to collaborate on [Api WhatsApp](https://github.com/JSSO0/Projeto.git)
 
-- 🤝 I’m looking for help with [Java Project](https://github.com/JSSO0/bootcamp-java.git)
+- 🤝 I’m looking for help with [Java Project](https://github.com/JSSO0/Projeto.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/JSSO0](https://github.com/JSSO0)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python and Django**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, Apache, Spring-Boot**
 
 - 📫 How to reach me **sjoely131@gmail.com**
 
