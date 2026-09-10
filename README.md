@@ -1,48 +1,155 @@
-<h1 align="center">Hi 👋, I'm Joely Silva</h1>
-<h3 align="center">A growing Full-Stack developer</h3>
+# 👋 Hi, I'm Joely Silva
 
-<img allign="center" alt="Coding" width="100%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="jsso0" />
+### AI Engineer | Software Engineer | Generative AI | AI Agents | Backend & APIs
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jsso0&label=Profile%20views&color=0e75b6&style=flat" alt="jsso0" /> </p>
+I'm an **AI Engineer and Software Developer** focused on building AI agents, LLM-powered applications, APIs, integrations, and scalable backend systems.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsso0" alt="jsso0" /></a> </p>
+My background in software engineering allows me to approach AI not only from the model side, but also from the **architecture, integration, reliability, deployment, and production** perspective.
 
-- 🔭 I’m currently working on [SpringBootApi](https://github.com/JSSO0/springbootapi)
+I'm particularly interested in **AI Agents, LLMs, MCP, agentic architectures, AI automation, and the intersection between AI and software engineering.**
 
-- 🌱 I’m currently learning **Java, Apache, Sping-Boot, Database PostgreeSQL and Docker**
+---
 
-- 👯 I’m looking to collaborate on [Api WhatsApp](https://github.com/JSSO0/Projeto.git)
+## 🚀 What I'm working on
 
-- 🤝 I’m looking for help with [Tela API V4]([https://github.com/JSSO0/Projeto.git](https://github.com/JSSO0/tela_api_v4-v1.0.1))
+* 🤖 Building **AI Agents** for real-world business problems
+* 🧠 Developing **LLM-powered applications and AI Skills**
+* 🔌 Creating and maintaining **MCP Servers**
+* 🔗 Building AI integrations with **APIs and enterprise systems**
+* 🕸️ Developing agentic applications with **LangGraph**
+* ⚙️ Working with **Python, Java, TypeScript and backend architectures**
+* 🐳 Deploying and maintaining applications with **Docker**
+* ☁️ Exploring cloud infrastructure and AI deployment
+* 📚 Sharing knowledge about **AI Engineering and software architecture**
 
-- 👨‍💻 All of my projects are available at [JSSO0](https://github.com/JSSO0)
+---
 
-- 💬 Ask me about **PHP, REACT, JavaScript, Java, Apache, Spring-Boot**
+## 🧠 AI Engineering
 
-- 📫 How to reach me **sjoely131@gmail.com**
+Some of the areas I'm currently working with:
 
-- ⚡ Fun fact **I'm a perfectionist, I don't like not knowing a certain subject, especially when I like that subject**
+* Generative AI
+* Large Language Models (LLMs)
+* AI Agents
+* Agentic Architectures
+* MCP (Model Context Protocol)
+* AI Skills
+* LangGraph
+* Prompt Engineering
+* LLM APIs
+* AI Automation
+* Model Integration
+* Self-hosted AI models
+* API & Tool Integration
+* AI-powered Enterprise Applications
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 💻 Software Engineering
+
+My software engineering background includes:
+
+* **Python**
+* **Java**
+* **TypeScript / JavaScript**
+* **Spring Boot**
+* **REST APIs**
+* **Microservices**
+* **Event-driven architectures**
+* **API integrations**
+* **Authentication & Authorization**
+* **Observability, Logging & Tracing**
+* **Docker**
+* **PostgreSQL**
+* **Git / GitHub**
+* **CI/CD**
+
+---
+
+## 🔭 Featured Projects
+
+### 🧠 Graph-Based Narrative Intelligence Platform
+
+An experimental AI platform focused on transforming narrative content into a **semantic knowledge graph**, connecting characters, events, objects, and relationships while enabling timeline analysis and contextual insights.
+
+### 📊 Formula Lab
+
+An AI-powered data analysis platform designed to transform datasets and documents into automated insights.
+
+The platform explores **LLM orchestration, model routing, AI automation, and cost-aware inference**.
+
+---
+
+## 📚 Publications
+
+* [HATEOAS Nunca Foi Inútil — Só Estava Esperando Pela IA](https://medium.com/@sjoely131)
+* [API ou Bare Metal? O cálculozinho que separa você de um rombo de R$ 500 mil](https://medium.com/@sjoely131)
+
+I write about **AI Engineering, APIs, software architecture, backend development, and emerging technologies.**
+
+---
+
+## 🌱 Currently learning
+
+I'm continuously exploring:
+
+**AI Agents • LLMs • MCP • RAG • AI Architecture • MLOps • Cloud • Distributed Systems**
+
+---
+
+## 🤝 Let's connect
+
+If you're interested in **AI Engineering, AI Agents, APIs, backend development, or building intelligent systems**, feel free to reach out.
+
+📫 **Email:** [sjoely131@gmail.com](mailto:sjoely131@gmail.com)
+
 <p align="left">
-<a href="https://linkedin.com/in/joely-sousa-silva-231322167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joely sousa silva" height="30" width="40" /></a>
-<a href="https://instagram.com/ss.joely" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ss.joely" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/joely-sousa-silva-231322167" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/ss.joely" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/ />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="40" height="40"/ />
+---
 
+## 🛠️ Languages & Tools
 
-  
-          
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
 
-          
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+  </a>
 </p>
-
-<div>
-<a href="https://github.com/JSSO0">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSSO0&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JSSO0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
